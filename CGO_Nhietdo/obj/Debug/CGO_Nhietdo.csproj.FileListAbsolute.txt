@@ -1,0 +1,8 @@
+D:\GitHub\Project\BTVN\CGO_Nhietdo\CGO_Nhietdo\bin\Debug\CGO_Nhietdo.exe.config
+D:\GitHub\Project\BTVN\CGO_Nhietdo\CGO_Nhietdo\bin\Debug\CGO_Nhietdo.exe
+D:\GitHub\Project\BTVN\CGO_Nhietdo\CGO_Nhietdo\bin\Debug\CGO_Nhietdo.pdb
+D:\GitHub\Project\BTVN\CGO_Nhietdo\CGO_Nhietdo\obj\Debug\CGO_Nhietdo.csproj.AssemblyReference.cache
+D:\GitHub\Project\BTVN\CGO_Nhietdo\CGO_Nhietdo\obj\Debug\CGO_Nhietdo.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\Project\BTVN\CGO_Nhietdo\CGO_Nhietdo\obj\Debug\CGO_Nhietdo.csproj.CoreCompileInputs.cache
+D:\GitHub\Project\BTVN\CGO_Nhietdo\CGO_Nhietdo\obj\Debug\CGO_Nhietdo.exe
+D:\GitHub\Project\BTVN\CGO_Nhietdo\CGO_Nhietdo\obj\Debug\CGO_Nhietdo.pdb
